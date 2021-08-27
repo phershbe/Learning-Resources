@@ -10,4 +10,6 @@ LeetCode
 
 Of course, making projects by myself and looking up things as I need them is my favorite way.  
 
+I also post questions on Stack Overflow from time to time.  
+
 Let me know if you have any suggestions!
