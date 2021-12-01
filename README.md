@@ -8,6 +8,8 @@ Ben Awad
 CodeSignal  
 LeetCode
 
+I'm also learning Python as well.
+
 Paid courses can be interesting too.
 
 Of course, making projects by myself and looking up things as I need them is my favorite way.  
