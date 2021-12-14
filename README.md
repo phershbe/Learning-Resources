@@ -14,7 +14,9 @@ Paid courses can be interesting too.
 
 Of course, making projects by myself and looking up things as I need them is my favorite way.  
 
-I also post questions on Stack Overflow from time to time.  
+I also post questions on Stack Overflow from time to time.
+
+I'm learning various algoithms as well.
 
 Let me know if you have any suggestions!
 
