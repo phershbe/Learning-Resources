@@ -16,6 +16,8 @@ Of course, making projects by myself and looking up things as I need them is my 
 
 I also post questions on Stack Overflow from time to time.
 
+I like web scraping a lot.
+
 I'm learning various algoithms as well.
 
 Let me know if you have any suggestions!
