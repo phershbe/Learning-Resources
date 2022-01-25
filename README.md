@@ -12,6 +12,8 @@ I'm also learning Python as well.
 
 I'm focusing on Django currently.
 
+I'm on intermediate questions on LeetCode.
+
 Paid courses can be interesting too.
 
 Of course, making projects by myself and looking up things as I need them is my favorite way.  
