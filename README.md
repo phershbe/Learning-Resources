@@ -14,11 +14,11 @@ I'm focusing on Django currently.
 
 I'm on intermediate questions on LeetCode.
 
-I'm going to upload more projects on here soon.
-
 Paid courses can be interesting too.
 
 Of course, making projects by myself and looking up things as I need them is my favorite way.
+
+I'm going to upload more projects on here soon.
 
 I also post questions on Stack Overflow from time to time.
 
